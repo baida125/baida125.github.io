@@ -1,3 +1,9 @@
+---
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 4
+---
+
 # 关于我
 
 你好！我是 [bai_hf]，一个热爱编程、写作和技术分享的开发者。在这个博客中，我希望能够与你分享我的知识、经验和见解。
