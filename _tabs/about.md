@@ -2,7 +2,6 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
----
 
 # 关于我
 
@@ -35,3 +34,4 @@ order: 4
 如果你有任何问题或想交流，请随时联系我！
 
 ---
+
