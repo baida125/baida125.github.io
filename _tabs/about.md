@@ -2,36 +2,7 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
-
-# 关于我
-
-你好！我是 [bai_hf]，一个热爱编程、写作和技术分享的开发者。在这个博客中，我希望能够与你分享我的知识、经验和见解。
-
-## 背景
-
-- **教育背景**：
-  - [济南大学] - [计算机科学与技术]（[2020/9] - [2024/7]）
-  - [内蒙古大学] - [软件工程]（[2025/9] - [至今]）
-
-## 技能
-
-- **编程语言**：Python, JavaScript, Java, C++
-- **框架和工具**：React, Node.js, Docker, Vue
-- **其他技能**：数据库管理, 项目管理, 深度学习
-
-## 兴趣爱好
-
-- **阅读**：我喜欢阅读技术书籍和科幻小说。
-- **旅行**：探索不同的文化和风景是我的一大爱好。
-- **运动**：我喜欢跑步和游泳来保持健康。
-
-## 联系方式
-
-- **电子邮件**：[你的邮箱]
-- **GitHub**：[你的 GitHub 用户名](https://github.com/baida125)
-- **LinkedIn**：[你的 LinkedIn 个人资料链接](https://www.linkedin.com/in/你的用户名)
-
-如果你有任何问题或想交流，请随时联系我！
-
 ---
 
+> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+{: .prompt-tip }
